@@ -1,0 +1,6 @@
+/environment/mo2/cache/
+/environment/mo2/downloads/
+/environment/mo2/overwrite/
+/build/temp/
+*.bsa
+*.log
